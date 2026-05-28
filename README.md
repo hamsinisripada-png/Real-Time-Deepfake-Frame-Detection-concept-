@@ -42,7 +42,7 @@ Every frame is analyzed on-device using a QNN-quantized MobileViT model running 
 
 ---
 
-## 🚨 The Problem
+## 🚨 The Problem:
 
 **85% of deepfakes go undetected by end-users.** Existing solutions are broken by design:
 
