@@ -1,0 +1,7 @@
+Real-Time-Deepfake-Frame-Detection/
+│
+├── deepfake_frame_detector.py
+├── deepfake_model.h5
+├── requirements.txt
+├── README.md
+└── sample_output.png
